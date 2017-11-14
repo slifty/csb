@@ -1,2 +1,3 @@
-# csb
-My public notes and records during my time as a member of the Cheltenham School Board
+# Cheltenham School Board Notes & Tools
+This is a collection of resources I put together as part of my
+participation in the Cheltenham School Board.
